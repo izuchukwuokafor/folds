@@ -1,0 +1,4 @@
+"AadClientId": "6668978d-da06-400e-984d-c76b2e8799c6",
+  "AadSecret": "yDY8Q~~ELHE7q8xwn4Tv6m20AUvHmZT-jc-AnbX_",
+  "AadTenantDomain": "folds.com.ng",
+  "AadTenantId": "d6b1ac1f-9d0b-46b7-98b7-117b17a9a939",
